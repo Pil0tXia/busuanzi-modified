@@ -1,6 +1,6 @@
 # busuanzi-modified
 
-基于不蒜子2.3官网数据自定义访问量(site_pv, site_uv, page_pv)。Customize your site view count based on busuanzi.
+基于不蒜子2.3官网数据自定义站点访问量(site_pv, site_uv, page_pv)。Customize your site view count based on busuanzi.
 
 ## 修改
 
@@ -16,7 +16,7 @@
 
 - 渺软公益CDN：`https://jsd.onmicrosoft.cn/gh/Pil0tXia/busuanzi-modified/busuanzi.pure.mini.js`
 
-- 我自用的CDN（不作任何SLA保障）：`https://static.pil0txia.com/assets/busuanzi/2.3/busuanzi.pure.mini.js`
+- 我自用的CDN（不作任何SLA承诺）：`https://static.pil0txia.com/assets/busuanzi/2.3/busuanzi.pure.mini.js`
 
 如果你正在使用 Hexo 的 Butterfly 主题，请参考[这篇文档](https://butterfly.js.org/posts/4aa8abbe/#%E8%A8%AA%E5%95%8F%E4%BA%BA%E6%95%B8-busuanzi-UV-%E5%92%8C-PV)修改地址。
 
