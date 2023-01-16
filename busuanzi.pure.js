@@ -66,7 +66,7 @@ var bszCaller, bszTag;
     bszTag = {
         bszs: ["site_pv", "page_pv", "site_uv"],
         bszssp: ["site_pv"], // site view count
-        bszssu: ["site_uv"], // site view count
+        bszssu: ["site_uv"], // site unique visitor count
         bszspp: ["page_pv"], // page view count
         texts: function (a) {
             this.bszssp.map(function (b) {
